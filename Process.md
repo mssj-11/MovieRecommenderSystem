@@ -18,6 +18,13 @@ pip install python==3.7
 pip install -r requirements.txt
 ```
 
+o
+
+```sh
+pip install streamlit
+```
+
+
 `pip list`
 
 
